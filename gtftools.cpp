@@ -54,5 +54,5 @@ void help(){
 	cout<<PROGRAM_NAME<<": a tool for analysis of GTF files.\n";
 	cout<<"The GTFtools include sub-commmands include:\n\n";
 	cout<<"extract\t\t\t-Extract sub-GTF by designated feature or designated gene name\n";
-	cout<<"covert\t\t\t-For screen StringTie output GTFFiless\n";
+	cout<<"STscreen\t\t\t-For screen StringTie output GTFFiless\n";
 }
